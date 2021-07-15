@@ -29,3 +29,5 @@ zsh -> install oh-my-zsh [[LINK]](https://ohmyz.sh/#install)
 [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)  
 [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
+## 7. Terminal Shortcut
+[Blog](https://js-laboratory.tistory.com/49)
