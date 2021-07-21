@@ -31,3 +31,7 @@ zsh -> install oh-my-zsh [[LINK]](https://ohmyz.sh/#install)
 
 ## 7. Terminal Shortcut
 [Blog](https://js-laboratory.tistory.com/49)
+
+## ETC
+- VS Code Theme
+   - Palenight(Mild Contrast)
