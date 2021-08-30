@@ -35,3 +35,5 @@ zsh -> install oh-my-zsh [[LINK]](https://ohmyz.sh/#install)
 ## ETC
 - VS Code Theme
    - Palenight(Mild Contrast)
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+
