@@ -36,4 +36,10 @@ zsh -> install oh-my-zsh [[LINK]](https://ohmyz.sh/#install)
 - VS Code Theme
    - Palenight(Mild Contrast)
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+- 한영 전환 딜레이 없애기
+   1. [Karabiner](https://karabiner-elements.pqrs.org/) 설치
+   2. Karabiner - Add item - From Key {caps_lock} -> To Key {f19}
+   3. System Preferences - Keyboard - Shortcuts - Input Source - 'Select next source in Input menu' - {Caps Lock} -> F19로 변경
+   4. No delay
+
 
